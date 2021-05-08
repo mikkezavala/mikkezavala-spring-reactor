@@ -1,0 +1,7 @@
+logging:
+  level:
+    root: INFO
+
+application:
+  pokemonService:
+    server: "https://pokeapi.co/api/v2/pokemon/"

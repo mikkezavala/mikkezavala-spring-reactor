@@ -1,0 +1,7 @@
+logging:
+  level:
+    root: ERROR
+
+application:
+  pokemonService:
+    server: "http://localhost:9091"
